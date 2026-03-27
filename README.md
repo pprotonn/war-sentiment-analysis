@@ -28,6 +28,13 @@ This project analyzes public sentiment on war-related topics (Iran–Israel conf
     python main.py
    3. Run dashboard:
      streamlit run app.py
+## 📸 Project Output
+
+### Sentiment Graph
+![Output](output.png)
+
+### Dashboard
+![Dashboard](dashboard.png)
 
 ## 📌 Project Goal
 To understand global public opinion on war scenarios using data analysis and NLP techniques.
